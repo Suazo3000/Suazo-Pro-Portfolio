@@ -1,7 +1,7 @@
 # Suazo-Pro-Portfolio
 Portfolio - Website
 Link to site
-https://suazo3000.github.io/Challenge-02/ (update)
+https://suazo3000.github.io/Suazo-Pro-Portfolio/
 
 Website Portfolio
 My Why?
